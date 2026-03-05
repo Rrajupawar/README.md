@@ -58,5 +58,5 @@ React Native • Firebase
 ## 📫 Connect With Me
 
 Email: Rajupawarj143@gmail.com  
-GitHub: https://github.com/Raju-lamani  
-LinkedIn: (Add LinkedIn link)
+GitHub: https://github.com/Rrajupawar
+LinkedIn: https://www.linkedin.com/in/Raju-lamani
